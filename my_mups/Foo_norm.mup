@@ -1,0 +1,52 @@
+{
+  "attr": {}, 
+  "formatVersion": 3, 
+  "id": "root", 
+  "ideas": {
+    "1": {
+      "attr": {}, 
+      "id": 1, 
+      "ideas": {
+        "1": {
+          "id": 3, 
+          "title": "This is the first"
+        }, 
+        "11": {
+          "id": 4, 
+          "title": "And another one"
+        }, 
+        "21": {
+          "id": 5, 
+          "ideas": {
+            "1": {
+              "id": 6, 
+              "ideas": {
+                "1": {
+                  "id": 7, 
+                  "title": "And three-two-one"
+                }, 
+                "2": {
+                  "id": 8, 
+                  "title": "one"
+                }, 
+                "3": {
+                  "id": 9, 
+                  "title": "two"
+                }, 
+                "4": {
+                  "id": 10, 
+                  "title": "four"
+                }
+              }, 
+              "title": "And three-two"
+            }
+          }, 
+          "title": "And the third"
+        }
+      }, 
+      "title": "Foo"
+    }
+  }, 
+  "links": [], 
+  "title": "Foo"
+}
